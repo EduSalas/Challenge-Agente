@@ -177,7 +177,7 @@ Respuesta
 
 # Despliegue
 
-La aplicación puede desplegarse fácilmente en Streamlit Community Cloud.
+La aplicación desplegada en Streamlit Community Cloud.
 
 Repositorio GitHub:
 
