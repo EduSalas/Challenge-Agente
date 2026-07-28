@@ -1,10 +1,24 @@
 import streamlit as st
 
+from src.utils import load_environment
+
+load_environment()
+
 from src.loader import load_document
 from src.splitter import split_document
 from src.embeddings import create_embeddings
 from src.vectorstore import create_vectorstore
 from src.agent import create_qa_chain
+
+"""
+import streamlit as st
+
+from src.loader import load_document
+from src.splitter import split_document
+from src.embeddings import create_embeddings
+from src.vectorstore import create_vectorstore
+from src.agent import create_qa_chain
+"""
 
 st.set_page_config(
     page_title="Challenge Agente IA",
