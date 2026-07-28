@@ -195,17 +195,7 @@ https://challenge-agente-2026.streamlit.app
 
 # Captura
 
-Agregar una imagen en
-
-```
-screenshots/app.png
-```
-
-Luego incluir
-
-```markdown
-![Aplicación](screenshots/app.png)
-```
+<img width="1376" height="768" alt="app" src="https://github.com/user-attachments/assets/bb2d7b0d-edc9-47f3-b14f-ebd8c162f798" />
 
 ---
 
