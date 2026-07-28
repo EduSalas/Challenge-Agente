@@ -1,4 +1,5 @@
 import streamlit as st
+import langchain
 
 from src.utils import load_environment
 
@@ -9,6 +10,10 @@ from src.splitter import split_document
 from src.embeddings import create_embeddings
 from src.vectorstore import create_vectorstore
 from src.agent import create_qa_chain
+
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+st.write("LangChain:", langchain.__version__)
 
 """
 import streamlit as st
