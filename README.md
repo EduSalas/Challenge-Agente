@@ -77,7 +77,7 @@ challenge-agente/
 │   ├── agent.py
 │   └── utils.py
 
-└── data/
+└── data/doc.pdf
 ```
 
 ---
@@ -87,7 +87,7 @@ challenge-agente/
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/challenge-agente.git
+git clone https://github.com/EduSalas/challenge-agente.git
 ```
 
 Entrar al proyecto
@@ -182,13 +182,13 @@ La aplicación puede desplegarse fácilmente en Streamlit Community Cloud.
 Repositorio GitHub:
 
 ```
-https://github.com/TU-USUARIO/challenge-agente
+https://github.com/EduSalas/challenge-agente
 ```
 
 Aplicación:
 
 ```
-https://TU-APP.streamlit.app
+https://challenge-agente-2026.streamlit.app
 ```
 
 ---
@@ -209,10 +209,3 @@ Luego incluir
 
 ---
 
-# Autor
-
-E.S.
-
-Ingeniería en Informática
-
-Challenge Agente IA
